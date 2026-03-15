@@ -245,6 +245,7 @@ footer .footer-container{
 }
 .footer-container .icons a{
  margin-right: 24px;
+cursor:pointer;
 }
 .footer-container form input[type="text"]{
     width: 461px;
